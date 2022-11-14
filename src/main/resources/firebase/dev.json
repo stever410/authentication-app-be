@@ -1,0 +1,12 @@
+{
+  "type": "devkey",
+  "project_id": "devkey",
+  "private_key_id": "devkey",
+  "private_key": "devkey",
+  "client_email": "devkey",
+  "client_id": "devkey",
+  "auth_uri": "devkey",
+  "token_uri": "devkey",
+  "auth_provider_x509_cert_url": "devkey",
+  "client_x509_cert_url": "devkey"
+}
